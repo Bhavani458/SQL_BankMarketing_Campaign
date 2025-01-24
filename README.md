@@ -9,12 +9,12 @@ The dataset contains details about the bank's marketing campaign, including cust
 **Source**:  
 [Bank Data CSV](https://github.com/Bhavani458/SQL_BankMarketing_Campaign/blob/main/bank_data.csv)
 
+**View the whole presentation here:** [Bank Marketing Presentation](https://github.com/Bhavani458/SQL_BankMarketing_Campaign/blob/main/BankMarketing.pdf)_
+
 ## Objectives
 1. Identify customer profiles with the highest likelihood of subscribing to term deposits.
 2. Evaluate the impact of campaign features like call duration, previous contacts, and days since last contact on subscription rates.
 3. Provide actionable insights and recommendations to improve targeting and campaign efficiency.
-
-## STAR Method Approach
 
 ### Situation
 The bank's marketing campaign aims to increase subscriptions to term deposits. The challenge is to identify key factors that lead to higher subscription rates and understand how customer demographics, campaign features, and temporal patterns influence success.
